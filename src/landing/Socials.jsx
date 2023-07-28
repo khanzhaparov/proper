@@ -20,7 +20,7 @@ const Socials = () => {
                 p: "10px",
             }}
         >
-            <a href='https://drive.google.com/file/d/14c_XnDAhCZLELI14pDRCMNcIjLOTBDX1/view?usp=sharing'>
+            <a href='https://drive.google.com/file/d/1LpKLxTqwLvw5u_9DumdlN-sMmngCHEbF/view'>
                 <Button 
                     variant="contained" 
                     startIcon={<RestaurantIcon />}
